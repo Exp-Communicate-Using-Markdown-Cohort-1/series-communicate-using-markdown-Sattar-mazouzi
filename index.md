@@ -12,3 +12,9 @@ import numpy as np
 
 array = np.array([1,2])
 ```
+
+# making a task list 
+
+- [x] this is the firts task
+- [ ] second task
+- [ ] uncompleted task 
